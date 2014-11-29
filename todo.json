@@ -1,0 +1,9 @@
+[{
+    "Id": "1",
+    "Todo": "Create a RESTful API with JavaScript...",
+    "Details": "Make it persist data with MongoDB and Mongoose..."
+}, {
+    "Id": "2",
+    "Todo": "Finished the MEAN Web Development Book...",
+    "Details": "It's an awesome book..."
+}]
